@@ -1,0 +1,626 @@
+{
+    "searched":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/dQXJ3Xhk/w.jpg",
+          "brand": "Brand",
+          "description": "Green shoes, blue trouser....",
+          "price": 2000
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/cH7Zz4sV/m.jpg",
+          "brand": "Brand",
+          "description": "Orange and black....",
+          "price": 6000
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/13MvvxhJ/w1.jpg",
+          "brand": "Brand",
+          "description": "Yellow, blue trouser....",
+          "price": 4500
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/V6s13Pdv/m1.jpg",
+          "brand": "Brand",
+          "description": "Brown and Grey ....",
+          "price": 8300
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/cJ22cqwP/w2.jpg",
+          "brand": "Brand",
+          "description": "Light Grey and Black....",
+          "price": 7000
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/W1D7wd8b/m2.jpg",
+          "brand": "Brand",
+          "description": "Black and White....",
+          "price": 12000
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/vmhD1zn1/w3.png",
+          "brand": "Brand",
+          "description": "Sleeveless white top and Blue....",
+          "price": 5600
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/SQ28PB8D/m4.jpg",
+          "brand": "Brand",
+          "description": "All Grey....",
+          "price": 11300
+        }
+    ],
+    "featured":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/x153QBRh/sneakers-Shoes.jpg",
+          "brand": "Brand",
+          "description": "blue sneakers....",
+          "price": 3000
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/dtKfVP2V/doll-Shoes.jpg",
+          "brand": "Brand",
+          "description": "brown doll shoes....",
+          "price": 1500
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/Qx4nk9LH/highheel-Shoes.jpg",
+          "brand": "Brand",
+          "description": "Blue & Gold heels ....",
+          "price": 4500
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/6pBn3zbZ/ms1.jpg",
+          "brand": "Brand",
+          "description": "White....",
+          "price": 2500
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/0NMQ2wvm/wedge-Shoes.jpg",
+          "brand": "Brand",
+          "description": "Black heels....",
+          "price": 5500
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/c15bftG6/ms2.jpg",
+          "brand": "Brand",
+          "description": "White it is....",
+          "price": 2500
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/3Jmz7rzR/sneakers-Shoe.jpg",
+          "brand": "Brand",
+          "description": "Most White but with Black....",
+          "price": 3500
+        }
+    ],
+    "arrivals": [
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/y8JgW5Xk/longDres.jpg",
+          "brand": "Brand",
+          "description": "Pink dress....",
+          "price": 2500
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/9QT9JK4s/Sleeveless-Dre.jpg",
+          "brand": "Brand",
+          "description": "Blue & White....",
+          "price": 2500
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/13ZX5ttY/SlessD.jpg",
+          "brand": "Brand",
+          "description": "Grey white ....",
+          "price": 2800
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/Qd0F4D84/shortDr.jpg",
+          "brand": "Brand",
+          "description": "Silk Green....",
+          "price": 4500
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/tTtQkqy7/long-Dress.jpg",
+          "brand": "Brand",
+          "description": "Long Sleeveless dress....",
+          "price": 4000
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/DyNDqJsB/event-Dres.jpg",
+          "brand": "Brand",
+          "description": "Shinning Silver evening gown....",
+          "price": 7500
+        },
+        {
+          "id": 7,
+          "image": "https://m.media-amazon.com/images/I/81dfGy6UB1L._AC_UX569_.jpg",
+          "brand": "Brand",
+          "description": "Button Down Casual Dresses Tunic Dress with Pockets",
+          "price": 4500
+        }
+    ],
+    "abaya":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/25Prt2VJ/abaya2.jpg",
+          "brand": "Brand",
+          "description": "Blue , Grey & Black....",
+          "price": 5500
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/zfqngFJs/abaya1.jpg",
+          "brand": "Brand",
+          "description": "Light Brown....",
+          "price": 6500
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/hP9sQjL7/abaya4.jpg",
+          "brand": "Brand",
+          "description": "Blue , White and Cream....",
+          "price": 7500
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/5tZQm519/abaya6.jpg",
+          "brand": "Brand",
+          "description": "Light Cream & Light Brown ....",
+          "price": 6800
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/vDRPFxWG/abaya10.jpg",
+          "brand": "Brand",
+          "description": "Cream & White....",
+          "price": 7200
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/FK2GJJB3/abaya11.jpg",
+          "brand": "Brand",
+          "description": "Black and White....",
+          "price": 5800
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/MZhM2mjy/abaya12.jpg",
+          "brand": "Brand",
+          "description": "Open Black & Light Cream with Navy Blue ....",
+          "price": 6800
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/qM4r3NPP/abaya13.jpg",
+          "brand": "Brand",
+          "description": "Light Grey with Black....",
+          "price": 6100
+        }  
+    ],
+    "shirts":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/WzxmKdBT/Shirt7.jpg",
+          "brand": "Brand",
+          "description": "Cultural Shirt....",
+          "price": 3100
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/c4Y5WWXX/shirt.jpg",
+          "brand": "Brand",
+          "description": "White Grey....",
+          "price": 2500
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/4NZpKTX8/shirt6.jpg",
+          "brand": "Brand",
+          "description": "Traditional....",
+          "price": 2800
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/RF5NjcFP/shirt1.jpg",
+          "brand": "Brand",
+          "description": "White with small flowers ....",
+          "price": 1800
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/xT4jwKpK/shirt2.jpg",
+          "brand": "Brand",
+          "description": "White....",
+          "price": 1500
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/nVW6Z0Zc/shirt5.jpg",
+          "brand": "Brand",
+          "description": "Black....",
+          "price": 3300
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/dVJMSDw8/shirt3.webp",
+          "brand": "Brand",
+          "description": "Green  ....",
+          "price": 2600
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/J036bcyS/shirt4.jpg",
+          "brand": "Brand",
+          "description": "blue ....",
+          "price": 4600
+        }
+    ],
+    "skirts":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/bNmRWXVF/skirt.webp",
+          "brand": "Brand",
+          "description": "Light Brown....",
+          "price": 2600
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/1tMgXSqk/skirt1.jpg",
+          "brand": "Brand",
+          "description": "Dark Pink....",
+          "price": 2300
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/8k9pHsNy/skirt2.jpg",
+          "brand": "Brand",
+          "description": "Black & White ....",
+          "price": 2800
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/SK1Rbdb4/skirt3.jpg",
+          "brand": "Brand",
+          "description": "Blue & White ....",
+          "price": 2350
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/Xq3THM1Y/skirt4.jpg",
+          "brand": "Brand",
+          "description": "Brown....",
+          "price": 1900
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/yNsc8vGS/skirt5.jpg",
+          "brand": "Brand",
+          "description": "Black & White....",
+          "price": 2400
+        },
+        {
+           "id": 7,
+           "image": "https://i.postimg.cc/KYt3XVDM/skirt6.png",
+           "brand": "Brand",
+           "description": "Grey ....",
+           "price": 2600
+        },
+        {
+            "id": 8,
+            "image": "https://i.postimg.cc/4NtYHqjF/skirt7.jpg",
+            "brand": "Brand",
+            "description": "Light Brown....",
+            "price": 3400
+        }
+    ],
+    "suits":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/VNTRL2xL/suite.jpg",
+          "brand": "Brand",
+          "description": "Light Blue & Dark Blue....",
+          "price": 12400
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/nLTyRV9S/suite1.jpg",
+          "brand": "Brand",
+          "description": "Light Grey....",
+          "price": 12700
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/vHFG6Br5/suite2.jpg",
+          "brand": "Brand",
+          "description": "Cream ....",
+          "price": 11400
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/rpbBXng5/suite3.jpg",
+          "brand": "Brand",
+          "description": "Cream With White stripes ....",
+          "price": 10400
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/LsZyfHBZ/suite4.jpg",
+          "brand": "Brand",
+          "description": "Navy Blue....",
+          "price": 13400
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/SQtM0Wpk/suite5.jpg",
+          "brand": "Brand",
+          "description": "Light Cream....",
+          "price": 9700
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/JnpPCGRv/suite6.jpg",
+          "brand": "Brand",
+          "description": "Dusty Green ....",
+          "price": 12700
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/Jz86JwYT/suite7.jpg",
+          "brand": "Brand",
+          "description": "Blue with White stripes....",
+          "price": 13700
+        }
+    ],
+    "dresses":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/mD4gWgmY/longD.jpg",
+          "brand": "Brand",
+          "description": "Sleeveless Blue....",
+          "price": 4700
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/j5SBfV2V/longD1.jpg",
+          "brand": "Brand",
+          "description": "White Cream....",
+          "price": 4300
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/90ppY0nJ/longD2.jpg",
+          "brand": "Brand",
+          "description": "Purple ....",
+          "price": 3700
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/DfgdDWxc/longD3.jpg",
+          "brand": "Brand",
+          "description": "Cream ....",
+          "price": 3100
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/DZfmbz12/longD4.jpg",
+          "brand": "Brand",
+          "description": "White....",
+          "price": 3900
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/Mpxc8tXM/longD5.jpg",
+          "brand": "Brand",
+          "description": "Blue & Pink....",
+          "price": 3300
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/yxHKSQM0/longD6.jpg",
+          "brand": "Brand",
+          "description": "Baby Blue ....",
+          "price": 4100
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/0jbYDn72/longD7.jpg",
+          "brand": "Brand",
+          "description": "All mixed....",
+          "price": 2700
+        }
+    ],
+    "streetwear":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/ZRMZKPZh/streetwear.jpg",
+          "brand": "Brand",
+          "description": "Light Grey & White....",
+          "price": 7700
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/MHJwQ6cs/streetwear1.png",
+          "brand": "Brand",
+          "description": "Black & Light Grey....",
+          "price": 7200
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/VvghkmX0/streetwear2.jpg",
+          "brand": "Brand",
+          "description": "Black ....",
+          "price": 7100
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/3NzvpDXs/streetwear3.jpg",
+          "brand": "Brand",
+          "description": "White & Grey ....",
+          "price": 8700
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/76G7LV73/streetwear4.jpg",
+          "brand": "Brand",
+          "description": "All Black...",
+          "price": 9700
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/pr3sTrpT/streetwaer5.jpg",
+          "brand": "Brand",
+          "description": "Grey White....",
+          "price": 9100
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/8Cy9G1BF/streetwear6.jpg",
+          "brand": "Brand",
+          "description": "Navy Blue, White & Grey ....",
+          "price": 6700
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/hvKd0q6r/streetwear7.jpg",
+          "brand": "Brand",
+          "description": "White & Light Grey....",
+          "price": 8700
+        }
+    ],
+    "bags":[
+        {
+          "id": 1,
+          "image": "https://i.postimg.cc/Zqhpq3H2/bag.jpg",
+          "brand": "Brand",
+          "description": "Black....",
+          "price": 1700
+        },
+        {
+          "id": 2,
+          "image": "https://i.postimg.cc/RV7nDq4T/bag7.jpg",
+          "brand": "Brand",
+          "description": "Light Grey and White.....",
+          "price": 1300
+        },
+        {
+          "id": 3,
+          "image": "https://i.postimg.cc/XY51hfXz/bag2.jpg",
+          "brand": "Brand",
+          "description": "Light Blue .....",
+          "price": 1000
+        },
+        {
+          "id": 4,
+          "image": "https://i.postimg.cc/8P4LCs9z/bag6.jpg",
+          "brand": "Brand",
+          "description": "Black....",
+          "price": 1700
+        },
+        {
+          "id": 5,
+          "image": "https://i.postimg.cc/tTdYmMH4/bag3.jpg",
+          "brand": "Brand",
+          "description": "Black....",
+          "price": 1500
+        },
+        {
+          "id": 6,
+          "image": "https://i.postimg.cc/qMFMQTCG/bag4.jpg",
+          "brand": "Brand",
+          "description": "Light Grey....",
+          "price": 1900
+        },
+        {
+          "id": 7,
+          "image": "https://i.postimg.cc/wxGpYkTq/bag01.jpg",
+          "brand": "Brand",
+          "description": "Black....",
+          "price": 2700
+        },
+        {
+          "id": 8,
+          "image": "https://i.postimg.cc/6pxFBbsX/bag5.jpg",
+          "brand": "Brand",
+          "description": "Light Brown.....",
+          "price": 2300
+        }
+    ],
+    "accessories":[
+      {
+        "id": 1,
+        "image": "https://i.postimg.cc/fWBxzJ6T/watch3.jpg",
+        "brand": "Brand",
+        "description": "Silver watch.....",
+        "price": 3300
+      },
+      {
+        "id": 2,
+        "image": "https://m.media-amazon.com/images/I/71U8Ot3tx+L._AC_UL640_FMwebp_QL65_.jpg",
+        "brand": "Brand",
+        "description": "Silver watch.....",
+        "price": 1500
+      },
+      {
+        "id": 3,
+        "image": "https://i.postimg.cc/HsLkQtBX/glasses2.jpg",
+        "brand": "Brand",
+        "description": "Silver watch.....",
+        "price": 3300
+      },
+      {
+        "id": 4,
+        "image": "https://i.postimg.cc/3wqcc3T3/watch.jpg",
+        "brand": "Brand",
+        "description": "Black watch ..",
+        "price": 5000
+      },
+      {
+        "id": 5,
+        "image": "https://i.postimg.cc/jd8QXZKb/glasses1.jpg",
+        "brand": "Brand",
+        "description": "Cream .....",
+        "price": 3300
+      },
+      {
+        "id": 6,
+        "image": "https://i.postimg.cc/q7G5p2yM/watch1.jpg",
+        "brand": "Brand",
+        "description": "Brown & Black...",
+        "price": 7300
+      },
+      {
+        "id": 7,
+        "image": "https://i.postimg.cc/8kqQKBbq/glasses3.jpg",
+        "brand": "Brand",
+        "description": "Black ....",
+        "price": 2600
+      },
+      {
+        "id": 8,
+        "image": "https://i.postimg.cc/CLN7Bwdm/watch2.jpg",
+        "brand": "Brand",
+        "description": "Silver & Gold....",
+        "price": 5600
+      }
+    ]
+}
