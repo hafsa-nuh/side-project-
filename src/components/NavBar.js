@@ -1,5 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
+import { FiMoon, FiUser } from "react-icons/fi";
 
 const Nav = styled.nav`
   position: sticky;
@@ -55,6 +56,9 @@ const SearchBox = styled.input`
   background-color: none;
   color: #a9a9a9;
   outline: none;
+  ::placeholder {
+    color: #141313;
+  }
 `;
 const SearchBtn = styled.button`
   width: 5rem;
@@ -70,24 +74,90 @@ const SearchBtn = styled.button`
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
 `;
+const Menu = styled.div`
+  div,
+  a {
+    margin-right: 1rem;
+    margin-left: 2rem;
+    font-size: 1.7rem;
+    line-height: 4rem;
+    background-color: black;
+    justify-content: space-between;
+    cursor: pointer;
+    color: white;
+    text-align: center;
+    border-radius: 50%;
+    height: 4rem;
+    width: 4rem;
+  }
+  :hover {
+    background-color: orange;
+    color: #fff;
+    transform: rotate(360deg);
+  }
+`;
+const NavUl = styled.ul`
+  width: 100%;
+  display: flex;
+  padding: 10px 10vw;
+  justify-content: center;
+  list-style: none;
+  border-top: 1px solid #f1f0f0;
+`;
+const NavA = styled.a`
+  text-transform: capitalize;
+  padding: 0 10px;
+  margin: 0 5px;
+  text-decoration: none;
+  color: #383838;
+  opacity: 0.5;
+  transition: 0.5s;
+  font-size: 1.5rem;
+  :hover{
+    opacity: 1.5;
+`;
 
 
 function NavBar() {
-  return <>
-  <Nav>
-    <NavDiv>
-        <Logo>Mulhimat
+  return (
+    <>
+      <Nav>
+        <NavDiv>
+          <Logo>
+            Mulhimat
             <Span>~</Span>
-        </Logo>
-        <NavItem>
+          </Logo>
+          <NavItem>
             <Search>
-                <SearchBox placeholder='search product' type="text" ></SearchBox>
-                <SearchBtn>Search</SearchBtn>
+              <SearchBox placeholder="search product" type="text"></SearchBox>
+              <SearchBtn>Search</SearchBtn>
             </Search>
-        </NavItem>
-    </NavDiv>
-  </Nav>
-  </>
+            <Menu>
+              <div>{FiMoon}</div>
+              <a href={FiUser}>{FiUser}</a>
+            </Menu>
+          </NavItem>
+        </NavDiv>
+        <NavUl>
+          <li>
+            <NavA>Home</NavA>
+          </li>
+          <li>
+            <NavA>Products</NavA>
+          </li>
+          <li>
+            <NavA>Features</NavA>
+          </li>
+          <li>
+            <NavA>Blog</NavA>
+          </li>
+          <li>
+            <NavA>Reviews</NavA>
+          </li>
+        </NavUl>
+      </Nav>
+    </>
+  );
 }
 
 export default NavBar
